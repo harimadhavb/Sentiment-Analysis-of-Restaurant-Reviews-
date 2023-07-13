@@ -5,4 +5,4 @@ This personal project focuses on conducting sentiment analysis on restaurant rev
 * Sentiment analysis of restaurant reviews using NLP techniques.
 * Analyzed customers' opinions to determine positive, negative, or neutral sentiments toward restaurants.
 * Implemented preprocessing techniques, including tokenization, stop-word removal, and stemming, to enhance the accuracy of sentiment analysis results.
-* Leveraged NLP libraries and tools such as NLTK, spaCy, or scikit-learn for efficient text preprocessing and sentiment analysis.
+* Leveraged NLP libraries and tools such as NLTK, and scikit-learn for efficient text preprocessing and sentiment analysis.
